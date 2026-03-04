@@ -1,0 +1,17 @@
+.first-class {
+    color: green;
+    border: 5px solid red;
+}
+
+#secondId {
+    color: blue;
+}
+
+#thirdId {
+    font-size: 10px;
+}
+
+.thinh-image {
+    height: 200px;
+    width: 400px;
+}
